@@ -49,7 +49,7 @@ class PixelsServiceProvider extends ServiceProvider
     protected function registerAssets()
     {
         $this->publishes([
-            module_path($this->moduleName, 'dist/build-pixels') => public_path(),
+            module_path($this->moduleName, 'dist/build-pixels') => public_path('build-pixels'),
         ], 'modules-assets');
     }
 
