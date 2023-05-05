@@ -50,7 +50,7 @@ class PixelsServiceProvider extends ServiceProvider
     {
         $this->publishes([
             module_path($this->moduleName, 'dist/build-pixels') => public_path(),
-        ], 'assets');
+        ], 'modules-assets');
     }
 
 
