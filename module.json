@@ -1,0 +1,11 @@
+{
+    "name": "Pixels",
+    "alias": "pixels",
+    "description": "",
+    "keywords": [],
+    "priority": 9,
+    "providers": [
+        "HexGad\\Pixels\\Providers\\PixelsServiceProvider"
+    ],
+    "files": []
+}
