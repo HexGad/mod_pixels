@@ -13,7 +13,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                HexGad\\Pixels\\Providers\\PixelsServiceProvider"
+                "HexGad\\Pixels\\Providers\\PixelsServiceProvider"
             ],
             "aliases": {}
         }
