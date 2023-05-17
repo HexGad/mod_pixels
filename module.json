@@ -3,7 +3,7 @@
     "alias": "pixels",
     "description": "",
     "keywords": [],
-    "priority": 9,
+    "priority": 11,
     "providers": [
         "HexGad\\Pixels\\Providers\\PixelsServiceProvider"
     ],
